@@ -32,11 +32,11 @@ Working on a full-stack recipe recommendation system using Python, Node.js, Mong
 
 ## 🛠️ Skills
 
-**Programming Languages:** Python, C, C++, HTML, CSS
-**Web Development:** Responsive Web Design
-**Soft Skills:** Leadership, Time Management, Communication, Problem-Solving, Design Thinking
-**Languages:** English, Hindi, Gujarati
-**Cybersecurity Skills:** Cybersecurity, Technical Security Awareness, Network Traffic Analysis, Data Analysis 
+- **Programming Languages:** Python, C, C++, HTML, CSS
+- **Web Development:** Responsive Web Design
+- **Soft Skills:** Leadership, Time Management, Communication, Problem-Solving, Design Thinking
+- **Languages:** English, Hindi, Gujarati
+- **Cybersecurity Skills:** Cybersecurity, Technical Security Awareness, Network Traffic Analysis, Data Analysis 
 
 ---
 
